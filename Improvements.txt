@@ -1,0 +1,6 @@
+﻿Variable font size
+Excel file loader
+Settings/Excel file saver
+ListView design setting
+Search options
+Search result chooser
